@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Gold Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Dr.%20Ramesh%20Kumar%20Yadav&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Head%20of%20Department%20%E2%80%A2%20Computer%20Science%20%26%20Engineering&descSize=16&descAlignY=60&descColor=FFF8DC" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=180&amp;section=header&amp;text=Dr.%20Ramesh%20Kumar%20Yadav&amp;fontSize=44&amp;fontColor=FFD700&amp;fontAlignY=45" />
+
+### Head of Department · Faculty of Science & Technology
 
 <br/>
 
@@ -257,7 +259,7 @@ Dr. Ramesh Kumar Yadav was the **founding force** behind **[The ICFAI University
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=Empowering%20the%20Next%20Generation%20of%20Technologists&fontSize=18&fontColor=FFD700&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=140&amp;section=footer&amp;text=Empowering%20the%20Next%20Generation%20of%20Technologists&amp;fontSize=18&amp;fontColor=FFD700&amp;fontAlignY=55" />
 
 <br/>
 
