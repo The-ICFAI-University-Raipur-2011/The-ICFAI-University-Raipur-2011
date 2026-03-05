@@ -222,20 +222,24 @@ Dr. Ramesh Kumar Yadav was the **founding force** behind **[The ICFAI University
 
 ---
 
-## 🛠️ Technologies & Focus Areas
+## 🛠️ Technologies & 💻 Core Focus Areas
+
+*Computer Science Engineering — across every specialized domain of this era:*
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WebDev](https://img.shields.io/badge/Web_Development-0D1117?style=for-the-badge&logo=html5&logoColor=FFD700)
+![Backend](https://img.shields.io/badge/Backend_Engineering-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FFD700)
+![FullStack](https://img.shields.io/badge/Full_Stack-0D1117?style=for-the-badge&logo=react&logoColor=FFD700)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=FFD700)
+![ML](https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FFD700)
+![DataScience](https://img.shields.io/badge/Data_Science-0D1117?style=for-the-badge&logo=pandas&logoColor=FFD700)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FFD700)
+![Cyber](https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FFD700)
+![IoT](https://img.shields.io/badge/Internet_of_Things-0D1117?style=for-the-badge&logo=arduino&logoColor=FFD700)
+![Blockchain](https://img.shields.io/badge/Blockchain-0D1117?style=for-the-badge&logo=bitcoin&logoColor=FFD700)
+![DevOps](https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=docker&logoColor=FFD700)
+![OpenSource](https://img.shields.io/badge/Open_Source-0D1117?style=for-the-badge&logo=github&logoColor=FFD700)
 
 </div>
 
